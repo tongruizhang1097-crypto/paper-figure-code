@@ -26,4 +26,4 @@ gh skill install tongruizhang1097-crypto/paper-figure-code
 
 ## 许可
 
-[MIT License](LICENSE)。Copyright (c) 2026 Tongrui Zhang。
+[MIT License](LICENSE)。Copyright (c) 2026 TERRY_Z。
